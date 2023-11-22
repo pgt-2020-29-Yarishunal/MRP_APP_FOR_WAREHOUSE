@@ -1,0 +1,58 @@
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MRP APP v.2.0.exe.config
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MRP APP v.2.0.exe
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MRP APP v.2.0.pdb
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MRP APP v.2.0.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Data.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Web.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\Google.Protobuf.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\Zstandard.Net.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\Renci.SshNet.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\System.Memory.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\System.Buffers.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Data.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\bin\Debug\MySql.Web.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\MRP APP v.2.0.exe.config
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Interop.ADODB.dll
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test UI.vbproj.ResolveComReference.cache
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.create_mrp.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.eform_dit_stock_manual.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.filter_data__outstanding.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.filter_data_monitoring.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.Form1.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_edit_item_manual.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_data_gdban.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_demand.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_inwh.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_new_item.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_outs.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_prpo.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.Form_input_stock.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.home.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.monitoring.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.Resources.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test UI.vbproj.GenerateResource.cache
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test UI.vbproj.CoreCompileInputs.cache
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test UI.vbproj.CopyComplete
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\MRP APP v.2.0.exe
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\MRP APP v.2.0.xml
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\MRP APP v.2.0.pdb
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test UI.vbproj.AssemblyReference.cache
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.edit_kategori.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.monitoring_SO.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.filter_item_sticker_so.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.breakdown_cust.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.filter_pcr.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.form_input_so.resources
+C:\Users\yaris\source\repos\Test UI\Test UI\obj\Debug\Test_UI.upload_customer.resources
